@@ -1,0 +1,34 @@
+*** Creating Trace Output File '.\Out\GPIO_OutputInput.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\out\retarget.o"'
+### List of Objects: adding '".\out\adc.o"'
+### List of Objects: adding '".\out\clk.o"'
+### List of Objects: adding '".\out\gpio.o"'
+### List of Objects: adding '".\out\pwm.o"'
+### List of Objects: adding '".\out\sys.o"'
+### List of Objects: adding '".\out\timer.o"'
+### List of Objects: adding '".\out\rtx_conf_cm.o"'
+### List of Objects: adding '".\out\system_m051series.o"'
+### List of Objects: adding '".\out\startup_m051series.o"'
+### List of Objects: adding '".\out\main.o"'
+### List of Objects: adding '".\out\key_board.o"'
+### List of Objects: adding '".\out\lcd.o"'
+### List of Objects: adding '".\out\time.o"'
+### List of Objects: adding '".\out\sensor.o"'
+### List of Objects: adding '".\out\hongwai.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\out\retarget.o" ".\out\adc.o" ".\out\clk.o" ".\out\gpio.o" ".\out\pwm.o" ".\out\sys.o" ".\out\timer.o" ".\out\rtx_conf_cm.o" ".\out\system_m051series.o" ".\out\startup_m051series.o" ".\out\main.o" ".\out\key_board.o" ".\out\lcd.o" ".\out\time.o" ".\out\sensor.o" ".\out\hongwai.o" d:\Keil\ARM\RV31\Lib\RTX_CM1.LIB --strict --scatter ".\Out\GPIO_OutputInput.sct" 
+--map --first='startup_M051Series.o(RESET)' --datacompressor=off --info=inline --entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Out\GPIO_OutputInput.map" -o ".\Out\GPIO_OutputInput.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Out\GPIO_OutputInput.axf'
+### ADS-LD Command File: '.\Out\GPIO_OutputInput.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Out\GPIO_OutputInput.lnp', Handle=0x00000180
+### Writing '.lnp' file
+### ADS-LD Command file '.\Out\GPIO_OutputInput.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

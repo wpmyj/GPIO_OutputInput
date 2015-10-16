@@ -1,0 +1,4 @@
+--cpu Cortex-M0 ".\out\retarget.o" ".\out\adc.o" ".\out\clk.o" ".\out\gpio.o" ".\out\pwm.o" ".\out\sys.o" ".\out\timer.o" ".\out\rtx_conf_cm.o" ".\out\system_m051series.o" ".\out\startup_m051series.o" ".\out\main.o" ".\out\key_board.o" ".\out\lcd.o" ".\out\time.o" ".\out\sensor.o" ".\out\hongwai.o" d:\Keil\ARM\RV31\Lib\RTX_CM1.LIB --strict --scatter ".\Out\GPIO_OutputInput.sct" 
+--map --first='startup_M051Series.o(RESET)' --datacompressor=off --info=inline --entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Out\GPIO_OutputInput.map" -o ".\Out\GPIO_OutputInput.axf"

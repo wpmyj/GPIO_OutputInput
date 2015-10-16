@@ -1,0 +1,322 @@
+Dependencies for Project 'GPIO_OutputInput', Target 'GPIO_OutputInput': (DO NOT MODIFY !)
+F (.\LibM051Series\StdDriver\src\retarget.c)(0x52FDD2A0)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\retarget.o --omf_browse .\out\retarget.crf --depend .\out\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\LibM051Series\StdDriver\src\adc.c)(0x52FDD2A0)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\adc.o --omf_browse .\out\adc.crf --depend .\out\adc.d)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\LibM051Series\StdDriver\src\clk.c)(0x52FDD2A0)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\clk.o --omf_browse .\out\clk.crf --depend .\out\clk.d)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\LibM051Series\StdDriver\src\gpio.c)(0x52FDD2A0)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\gpio.o --omf_browse .\out\gpio.crf --depend .\out\gpio.d)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\LibM051Series\StdDriver\src\pwm.c)(0x52FDD2A0)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\pwm.o --omf_browse .\out\pwm.crf --depend .\out\pwm.d)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\LibM051Series\StdDriver\src\sys.c)(0x52FDD2A0)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\sys.o --omf_browse .\out\sys.crf --depend .\out\sys.d)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\LibM051Series\StdDriver\src\timer.c)(0x52FDD2A0)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\timer.o --omf_browse .\out\timer.crf --depend .\out\timer.d)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\RTX_Config\RTX_Conf_CM.c)(0x5371D294)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\rtx_conf_cm.o --omf_browse .\out\rtx_conf_cm.crf --depend .\out\rtx_conf_cm.d)
+F (.\LibM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.c)(0x52FDD29E)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\system_m051series.o --omf_browse .\out\system_m051series.crf --depend .\out\system_m051series.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (LibM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (LibM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\LibM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\startup\arm\startup_M051Series.s)(0x52FDD29E)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --16 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\startup_m051series.o --depend .\out\startup_m051series.d)
+F (.\User\main.c)(0x53ABBB69)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\main.o --omf_browse .\out\main.crf --depend .\out\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\User\Key_Board.c)(0x53B128CE)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\key_board.o --omf_browse .\out\key_board.crf --depend .\out\key_board.d)
+I (User\Key_Board.h)(0x537BFDDB)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\User\lcd.c)(0x537EB319)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\lcd.o --omf_browse .\out\lcd.crf --depend .\out\lcd.d)
+I (User\lcd.h)(0x53ABBA39)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+F (.\User\Time.c)(0x53ABD168)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\time.o --omf_browse .\out\time.crf --depend .\out\time.d)
+I (User\Time.h)(0x537B3F2D)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+I (User\lcd.h)(0x53ABBA39)
+F (.\User\Sensor.c)(0x53ABBC2B)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\sensor.o --omf_browse .\out\sensor.crf --depend .\out\sensor.d)
+I (User\Sensor.h)(0x537B3F1A)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
+I (User\lcd.h)(0x53ABBA39)
+F (.\User\hongwai.c)(0x537353E6)(-c --cpu Cortex-M0 -D__EVAL -g -O2 --apcs=interwork -I.\ -I.\User -I.\libM051Series\StdDriver\inc -I.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series -I.\libM051Series\CMSIS\CM0\CoreSupport-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Nuvoton\M051Series-o .\out\hongwai.o --omf_browse .\out\hongwai.crf --depend .\out\hongwai.d)
+I (User\hongwai.h)(0x53731922)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\M051Series.h)(0x52FDD29E)
+I (.\libM051Series\CMSIS\CM0\CoreSupport\core_cm0.h)(0x52FDD29C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (.\libM051Series\CMSIS\CM0\DeviceSupport\Nuvoton\M051Series\system_M051Series.h)(0x52FDD29E)
+I (.\libM051Series\StdDriver\inc\sys.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\clk.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\adc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\ebi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\fmc.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\gpio.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\i2c.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\pwm.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\spi.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\timer.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\wwdt.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\uart.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\hdiv.h)(0x52FDD2A0)
+I (.\libM051Series\StdDriver\inc\acmp.h)(0x52FDD2A0)
